@@ -46,7 +46,7 @@
                 </div>
                 
                  <div>
-                    <h1 style="text-align:center;">مرحباً اسمي خديجة عبدالعزيز </h1>
+                    <h1 style="text-align:center;">مرحباً أنا خديجة عبدالعزيز </h1>
                 </div>
 
                 <div class="mt-8 bg-white dark:bg-gray-800 overflow-hidden shadow sm:rounded-lg">
